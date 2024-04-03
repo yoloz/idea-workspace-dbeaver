@@ -189,6 +189,17 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/standalone.iml" filepath="$PROJECT_DIR$/modules/standalone.iml" />
     </modules>
   </component>
 </project>

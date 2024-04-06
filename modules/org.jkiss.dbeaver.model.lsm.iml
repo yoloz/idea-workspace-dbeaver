@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
     <option name="activeLocationsIds" />
   </component>
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/classes" />
-    <exclude-output />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/src-gen" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/tests" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/generated-sources/antlr4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/generated-sources/antlr4" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/classes" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="project" />

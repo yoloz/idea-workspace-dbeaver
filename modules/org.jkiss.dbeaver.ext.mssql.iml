@@ -21,7 +21,7 @@
         <CLASSES />
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../../java/mssql-jdbc/src/main/java" />
+          <root url="file://$USER_HOME$/java/mssql-jdbc/src/main/java" />
         </SOURCES>
       </library>
     </orderEntry>

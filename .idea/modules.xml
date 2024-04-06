@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dbeaver-common.iml" filepath="$PROJECT_DIR$/dbeaver-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/dbeaver.iml" filepath="$PROJECT_DIR$/modules/dbeaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbeaver-common.iml" filepath="$PROJECT_DIR$/dbeaver-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-jfreechart.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-jfreechart.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-sshj.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-sshj.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea-workspace-dbeaver.iml" filepath="$PROJECT_DIR$/idea-workspace-dbeaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.appstore.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.appstore.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.repository.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.core.iml" />
@@ -35,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" />
@@ -58,8 +67,8 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.erd.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.erd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.ui.iml" />
@@ -94,6 +103,8 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.office.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.office.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.opendistro.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.opendistro.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" />
@@ -112,6 +123,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" />
@@ -136,6 +148,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sm.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sm.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" />
@@ -189,16 +202,6 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.base.feature.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.app.local.feature.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/standalone.iml" filepath="$PROJECT_DIR$/modules/standalone.iml" />
     </modules>
   </component>

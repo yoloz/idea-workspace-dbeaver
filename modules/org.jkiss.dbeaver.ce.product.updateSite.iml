@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.product.updateSite/target/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.product.updateSite">
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.product.updateSite/target" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository">
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/target/classes" />
     <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/target/generated-sources/antlr4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/target/generated-sources/antlr4" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.clickhouse/target" />
     </content>
     <orderEntry type="inheritedJdk" />

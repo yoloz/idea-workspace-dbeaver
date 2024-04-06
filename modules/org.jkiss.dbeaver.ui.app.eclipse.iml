@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse/target/classes" />
-    <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse">
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse/src">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse/target" />
     </content>

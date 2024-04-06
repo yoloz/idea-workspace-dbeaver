@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffb53f62-ba4f-4b71-83c3-173491085a3c" name="Changes" comment="默认打包添加Debug支持">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dbeaver/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../dbeaver/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dbeaver/plugins/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dbeaver/plugins/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ECLIPSE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/ECLIPSE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.ai.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.debug.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.git.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.office.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.product.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.svg.updateSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.cmp.simple.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.gis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.gis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.gis.view.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.gis.view.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.office.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.office.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.office.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.office.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.transfer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.transfer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.transfer.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.data.transfer.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.cubrid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.cubrid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.dameng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.dameng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.dameng.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.dameng.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.databricks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.databricks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.db2.i.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.db2.i.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.db2.zos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.db2.zos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.firebird.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.firebird.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2gis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2gis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hsqldb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hsqldb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.import_config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.import_config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.informix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.informix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.kognitio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.kognitio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.netezza.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.netezza.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ocient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ocient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sample.database.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sample.database.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.tidb.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.locks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.locks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.svg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.svg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.tipoftheday.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.tipoftheday.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.headless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.headless.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dashboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.lsm.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.jsch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.jsch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.slf4j.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.slf4j.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.native.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.native.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.native.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.native.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.sql.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.sql.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.ui.view.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.tasks.ui.view.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.team.git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.team.git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.team.git.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.team.git.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.eclipse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.eclipse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.standalone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.standalone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.winstore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.app.winstore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.charts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.charts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.dashboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.acl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.acl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.connection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.connection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.content.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.content.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.entity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.entity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.hex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.hex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.image.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.image.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.json.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.json.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.session.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.session.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.ai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.ai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.terminal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.terminal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.xml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.xml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.navigator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.navigator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.statistics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.statistics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="autoDetectCompiler" value="false" />
+        <option name="createModulesForAggregators" value="false" />
+        <option name="workspaceImportEnabled" value="false" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eQvOdvDmMbTfFrRsbLMkIznVGJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;devel&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/yolo/projects/dbeaver-ce/idea-workspace-dbeaver&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.42873564&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Run Eclipse (CE)" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-f00315f9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="devel" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认打包添加Debug支持" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认打包添加Debug支持" />
+  </component>
+</project>

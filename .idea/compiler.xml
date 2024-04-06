@@ -13,6 +13,7 @@
         <module name="org.jkiss.dbeaver.ext.db2.i" />
         <module name="org.jkiss.dbeaver.team.git.ui" />
         <module name="org.jkiss.dbeaver.ext.mysql.ui" />
+        <module name="org.jkiss.dbeaver.ext.ai.feature" />
         <module name="org.jkiss.dbeaver.ce.feature" />
         <module name="org.jkiss.dbeaver.appstore.feature" />
         <module name="org.jkiss.dbeaver.erd.ui" />
@@ -172,8 +173,8 @@
         <module name="org.jkiss.dbeaver.ext.snowflake.test" />
         <module name="org.jkiss.dbeaver.ext.mysql.test" />
         <module name="org.jkiss.dbeaver.ext.hana.test" />
-        <module name="org.jkiss.dbeaver.model.lsm.test" />
         <module name="org.jkiss.dbeaver.ext.postgresql.test" />
+        <module name="org.jkiss.dbeaver.model.lsm.test" />
         <module name="org.jkiss.dbeaver.ext.clickhouse.test" />
         <module name="org.jkiss.dbeaver.ext.greenplum.test" />
         <module name="org.jkiss.dbeaver.ext.test" />

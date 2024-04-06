@@ -43,7 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ext.ai.feature/org.jkiss.dbeaver.ext.ai.feature.iml" filepath="$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ext.ai.feature/org.jkiss.dbeaver.ext.ai.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" />

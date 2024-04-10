@@ -7,10 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/target" />
     </content>
-    <content url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/target" />
-    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />

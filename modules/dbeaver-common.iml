@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../target/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/test-classes" />
-    <content url="file://$MODULE_DIR$/../../dbeaver.wiki">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver.wiki/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver.wiki/target" />
+    <content url="file://$MODULE_DIR$/../../dbeaver-common" >
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-common/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver-common/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

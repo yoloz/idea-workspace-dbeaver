@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view/target/classes" />
-    <exclude-output />
+     <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view/target" />

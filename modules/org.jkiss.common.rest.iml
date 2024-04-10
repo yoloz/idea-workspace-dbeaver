@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/target/classes" />
-    <exclude-output />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/target" />
     </content>
     <orderEntry type="inheritedJdk" />

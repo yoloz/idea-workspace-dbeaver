@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../dbeaver/product/updateSite/target/classes" />
-    <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver-marketplace/releng/org.jkiss.dbeaver.ce.repository">
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/updateSite/target" />
+    <output url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

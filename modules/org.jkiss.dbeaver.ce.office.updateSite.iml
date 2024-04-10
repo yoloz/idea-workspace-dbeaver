@@ -2,12 +2,10 @@
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.office.updateSite/target/classes" />
-    <exclude-output />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.office.updateSite/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.office.updateSite">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.office.updateSite/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.office.updateSite/target" />
-    </content>
-    <content url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository">
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

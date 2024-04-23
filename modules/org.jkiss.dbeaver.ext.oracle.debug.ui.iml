@@ -18,5 +18,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.utils" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.oracle.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
   </component>
 </module>

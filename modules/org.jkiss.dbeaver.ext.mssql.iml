@@ -16,6 +16,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
+    <orderEntry type="module" module-name="org.jkiss.utils" />
     <orderEntry type="module-library">
       <library name="mssql jdbc">
         <CLASSES />

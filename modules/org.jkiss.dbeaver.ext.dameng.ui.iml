@@ -13,5 +13,9 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.dameng" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.utils" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
   </component>
 </module>

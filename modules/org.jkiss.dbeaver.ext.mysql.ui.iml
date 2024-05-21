@@ -18,5 +18,8 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" />
+    <orderEntry type="module" module-name="org.jkiss.utils" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" />
   </component>
 </module>

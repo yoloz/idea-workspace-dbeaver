@@ -43,7 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.dpi.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ext.ai.feature/org.jkiss.dbeaver.ext.ai.feature.iml" filepath="$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ext.ai.feature/org.jkiss.dbeaver.ext.ai.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ai.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.altibase.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" />
@@ -107,6 +107,8 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.debug.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oracle.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.gbase8a.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.gbase8a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.gbase8a.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.gbase8a.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.phoenix.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.debug.core.iml" />

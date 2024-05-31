@@ -15,5 +15,14 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.utils" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.data.transfer/lib/zip4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -13,7 +13,7 @@
               <option value="package" />
               <option value="-q" />
               <option value="exec:java" />
-              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../dbeaver/product/community/DBeaver.product -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-eclipse-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-eclipse-workspace/products/DBeaver.product" />
+              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../dbeaver/product/community/DBeaver.product -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-workspace/products/DBeaver.product" />
             </list>
           </option>
           <option name="pomFileName" />

@@ -5,20 +5,26 @@
       <option name="myRunnerSettings" />
       <option name="myRunnerParameters">
         <MavenRunnerParameters>
+          <option name="cmdOptions" />
           <option name="profiles">
             <set />
           </option>
           <option name="goals">
             <list>
               <option value="package" />
+              <option value="-X" />
               <option value="-q" />
               <option value="exec:java" />
-              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../dbeaver/product/community/DBeaver.product -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-workspace/products/DBeaver.product" />
+              <option value="-Dexec.args=-eclipse.version '${eclipse-version}' -config $PROJECT_DIR$/rcp-gen.properties -projectsFolder $PROJECT_DIR$/../ -eclipse $PROJECT_DIR$/../dbeaver-workspace/dependencies -output $PROJECT_DIR$/../dbeaver-workspace/products/" />
             </list>
           </option>
+          <option name="multimoduleDir" />
           <option name="pomFileName" />
           <option name="profilesMap">
             <map />
+          </option>
+          <option name="projectsCmdOptionValues">
+            <list />
           </option>
           <option name="resolveToWorkspace" value="false" />
           <option name="workingDirPath" value="$PROJECT_DIR$/../idea-rcp-launch-config-generator" />

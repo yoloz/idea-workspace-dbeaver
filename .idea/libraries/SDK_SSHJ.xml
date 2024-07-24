@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="SDK SSHJ">
     <CLASSES>
-      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.sshj_0.34.1.jar" />
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.sshj_0.34.1/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES/>
-    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.sshj_0.34.1.jar" recursive="false" />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.sshj_0.34.1/lib" recursive="false" />
   </library>
 </component>

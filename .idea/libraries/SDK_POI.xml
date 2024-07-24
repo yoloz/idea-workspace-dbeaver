@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="SDK POI">
     <CLASSES>
-      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.poi_5.2.5.jar" />
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.poi_5.2.5/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.poi_5.2.5.jar" recursive="false" />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.poi_5.2.5/lib" recursive="false" />
   </library>
 </component>

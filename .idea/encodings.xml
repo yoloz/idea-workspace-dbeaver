@@ -36,6 +36,8 @@
     <file url="file://$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ui.feature/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/features/org.jkiss.dbeaver.ui.feature/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/features/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/plugins-dev/org.jkiss.dbeaver.ext.test/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/plugins-dev/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.cmp.simple.ui/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.cmp.simple.ui/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.cmp.simple/src" charset="UTF-8" />
@@ -116,6 +118,8 @@
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.firebird/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.format.sqlworkbenchj/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.format.sqlworkbenchj/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.gbase8a.ui/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.gbase8a/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.generic.ui/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.generic.ui/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ext.generic/src" charset="UTF-8" />
@@ -294,6 +298,7 @@
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.xml/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.macos/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.navigator/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.navigator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/plugins/org.jkiss.dbeaver.ui.search/src" charset="UTF-8" />
@@ -321,6 +326,7 @@
     <file url="file://$PROJECT_DIR$/../dbeaver/product/repositories/org.jkiss.dbeaver.svg.repository/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/product/repositories/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dbeaver/test/org.jkiss.dbeaver.ext.altibase.test/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/test/org.jkiss.dbeaver.ext.clickhouse.test/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/test/org.jkiss.dbeaver.ext.clickhouse.test/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../dbeaver/test/org.jkiss.dbeaver.ext.generic.test/src" charset="UTF-8" />

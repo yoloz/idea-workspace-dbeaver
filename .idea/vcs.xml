@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../dbeaver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dbeaver-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dbeaver-jdbc-libsql" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

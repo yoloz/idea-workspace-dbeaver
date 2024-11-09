@@ -59,6 +59,7 @@
         <module name="org.jkiss.dbeaver.ext.hana.ui" />
         <module name="org.jkiss.dbeaver.ext.hana" />
         <module name="org.jkiss.dbeaver.dpi.model" />
+        <module name="com.dbeaver.jdbc.driver.libsql" />
         <module name="org.jkiss.dbeaver.model.dashboard" />
         <module name="org.jkiss.dbeaver.model" />
         <module name="org.jkiss.dbeaver.ext.spanner.ui" />
